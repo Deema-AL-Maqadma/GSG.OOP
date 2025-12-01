@@ -1,0 +1,10 @@
+from Account import Account
+my_account = Account()
+balance= my_account.getBalance()
+print(balance)
+my_account.setBalance(2000)
+print(my_account.getBalance())
+my_account.deposit(500)
+print(my_account.getBalance())
+my_account.withdrow(3000)
+print(my_account.getBalance())

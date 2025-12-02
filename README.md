@@ -1,4 +1,4 @@
-🧱 Python OOP – SkillStack Paths Training
+# 🧱 Python OOP – SkillStack Paths Training
 
 ![Gaza Sky Geeks Logo](GSG_Logo.jpg)
 
@@ -9,7 +9,7 @@ It includes practical exercises and mini-projects focused on OOP principles usin
 
 ---
 
-📁 Folder Structure
+## 📁 Folder Structure
 
 All folders are located inside the GSG.OOP directory:
 
@@ -27,7 +27,7 @@ All folders are located inside the GSG.OOP directory:
 
 ---
 
-🧠 Topics Covered
+## 🧠 Topics Covered
 
 - Class creation and object instantiation
 - Encapsulation and abstraction
@@ -38,7 +38,7 @@ All folders are located inside the GSG.OOP directory:
 
 ---
 
-👩‍💻 Author
+## 👩‍💻 Author
 
 Deema Mohammed AL-Maqadma  
 Computer Science Student | GSG Trainee  
@@ -46,7 +46,7 @@ Focused on clean code, teamwork, and simplifying technical concepts.
 
 ---
 
-📝 Notes
+## 📝 Notes
 
 - All code is written in Python 3.
 - Each folder contains focused examples or mini-projects.

@@ -53,5 +53,3 @@ Focused on clean code, teamwork, and simplifying technical concepts.
 - This repository represents the OOP phase of the training.  
   Other phases (Fundamentals, Data Structures) are available in separate repositories.
 
-SkillStack Paths – Gaza Sky Geeks _ OOP  
-Part 3 of the GSG training program covering object-oriented programming concepts and real-world modeling in Python.
